@@ -5,6 +5,9 @@ This project is a solution for the [*Titanic: Machine Learning from Disaster*](h
 ## Project structure
 
 /titanic-predictions | main folder
+
     /data            | data directly downloaded from Kaggle
-    /notebooks       | exploratory data analysis and inferences
+
+    /notebooks       | exploratory data analysis, inferences and tests
+
     /scripts         | utils for managing this project
