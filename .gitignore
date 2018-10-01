@@ -1,2 +1,4 @@
 # Ignore virtualenv
 .env
+
+.DS_Store
